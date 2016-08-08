@@ -1,0 +1,4 @@
+main and alternate
+http://s3.amazonaws.com/cory-vines/about_video_new2.mp4
+http://s3.amazonaws.com/cory-vines/about_video_new2.webm
+http://s3.amazonaws.com/cory-vines/about_video_new2.ogv
